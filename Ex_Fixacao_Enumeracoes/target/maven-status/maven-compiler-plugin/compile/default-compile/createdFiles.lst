@@ -1,0 +1,6 @@
+entidade\OrderItem.class
+entidade\enums\OrderStatus.class
+entidade\Order.class
+Programa\Programa.class
+entidade\Client.class
+entidade\Product.class
